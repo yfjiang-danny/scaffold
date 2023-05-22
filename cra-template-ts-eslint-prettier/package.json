@@ -1,0 +1,12 @@
+{
+  "name": "cra-template-ts-eslint-prettier",
+  "version": "0.0.1",
+  "private": false,
+  "description": "A template for create-react-app",
+  "license": "MIT",
+  "author": "yfjiang.danny",
+  "main": "index.js",
+  "engines": {
+    "node": ">=14"
+  }
+}
