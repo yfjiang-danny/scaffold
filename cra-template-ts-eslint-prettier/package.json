@@ -1,11 +1,24 @@
 {
-  "name": "cra-template-ts-eslint-prettier",
+  "name": "cra-template-simple-ts-eslint-prettier",
   "version": "0.0.1",
   "private": false,
   "description": "A template for create-react-app",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "eslint",
+    "eslintConfig",
+    "prettier"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yfjiang-danny/scaffold.git",
+    "directory": "cra-template-ts-eslint-prettier"
+  },
   "license": "MIT",
   "author": "yfjiang.danny",
-  "main": "index.js",
   "engines": {
     "node": ">=14"
   }
