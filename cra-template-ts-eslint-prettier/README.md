@@ -6,11 +6,13 @@ To use this template, add `--template simple-ts-eslint-prettier` when creating a
 
 For example:
 
-```sh
+```bash
 npx create-react-app my-app --template simple-ts-eslint-prettier
+```
 
 # or
 
+```bash
 yarn create react-app my-app --template simple-ts-eslint-prettier
 ```
 
